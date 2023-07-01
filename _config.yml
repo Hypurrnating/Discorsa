@@ -25,4 +25,4 @@ buttons:
     github_hide: true
 show_downloads: true
 favicon: ./Media/icon.ico
-logo_url: ./Media/icon.ico # Either absolute or relative url
+logo_url: ./Media/icon.webp # Either absolute or relative url

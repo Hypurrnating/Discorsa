@@ -21,8 +21,8 @@ buttons:
     zip_hide: false
     tar_url: https://discord.com/api/oauth2/authorize?client_id=1111709452526161920&redirect_uri=https%3A%2F%2Fdiscorsa-webserver-endpoint.up.railway.app%2Fo2auth&response_type=code&scope=identify%20connections
     tar_title: Register for Discorsa
-    tar_hide: true
-    github_hide: false
+    tar_hide: false
+    github_hide: true
 show_downloads: true
 favicon: none
 logo_url: ./logo.png # Either absolute or relative url

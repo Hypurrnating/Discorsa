@@ -7,8 +7,8 @@ darkmode: false
 hide_first_title: false # Useful if README.md is used on both github and pages
 syntax_theme: ./syntax.css # Leave empty for default, otherwise link to a pygments stylesheet
 color:
-    gradient_left: "#8083676"
-    gradient_right: "#15389681"
+    gradient_left: "#7b58dc"
+    gradient_right: "#ead3f1"
     header: "#fff"
     android_theme: "#000" # this default to gradient_color
     link: "#1e6bb8" # this default to gradient_color

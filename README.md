@@ -1,2 +1,2 @@
 # Discorsa
-Placeholder repo for Discorsa
+Placeholder repo for Discorsa. 

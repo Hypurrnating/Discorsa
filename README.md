@@ -9,6 +9,6 @@ If you have any questions, or need help, there's a [discord server](https://disc
 \
 At the moment, the mod doesn't do a lot. Mainly relays your lap times to a server, where they are saved and sent to discord.\
 I plan on expanding it to include more detailed data about each lap. This is a tricky thing to do since:
-- Processing data from [AC Python Doc](https://docs.google.com/document/d/13trBp6K1TjWbToUQs_nfFsB291-zVJzRZCNaTYt4Dzc/pub), and [Shared Memory Reference](file:///C:/Users/imady/Downloads/ACSharedMemoryDocumentation.pdf) if a *little* tricky
+- Processing data from [AC Python Doc](https://docs.google.com/document/d/13trBp6K1TjWbToUQs_nfFsB291-zVJzRZCNaTYt4Dzc/pub), and Shared Memory Reference is a *little* tricky
 - Assetto Corsa is using python version 3.3 (and don't get me started on importing modules)
 - Worst: Assetto Corsa is a client sided game, and I am writing a client sided mod. This is notoriously horrible for security. 

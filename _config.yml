@@ -5,12 +5,12 @@ plugins:
 - jekyll-remote-theme
 title: Discorsa
 description: Assetto Corsa plugin for Discord
-darkmode: false
+darkmode: true
 hide_first_title: false # Useful if README.md is used on both github and pages
 syntax_theme: # Leave empty for default, otherwise link to a pygments stylesheet
 color:
     gradient_left: "#70128f"
-    gradient_right: "#4b056d"
+    gradient_right: "#291121"
     header: "#ead3f1"
     section_title: "#155799" # this default to gradient_color
     android_theme: "#000" # this default to gradient_color
@@ -25,4 +25,4 @@ buttons:
     github_hide: true
 show_downloads: true
 favicon: ./Media/icon.ico
-logo_url: https://github.com/Hypurrnating/Discorsa/blob/main/Media/icon.webp # Either absolute or relative url
+logo_url:  # Either absolute or relative url

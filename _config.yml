@@ -5,7 +5,7 @@ plugins:
 - jekyll-remote-theme
 title: Discorsa
 description: Assetto Corsa plugin for Discord
-darkmode: false
+darkmode: true
 hide_first_title: false # Useful if README.md is used on both github and pages
 syntax_theme: # Leave empty for default, otherwise link to a pygments stylesheet
 color:

@@ -4,5 +4,7 @@ plugins:
 title: Discorsa Homepage
 description: Under construction?
 show_downloads: False
-site-links:
-  discord-server: https://discord.gg/DPTCrxawBx
+
+github:
+  repository_url: https://discord.gg/DPTCrxawBx
+# Jekyll is weird and wont add a third button so we need to do whatever this is

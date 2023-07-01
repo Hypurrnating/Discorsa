@@ -2,7 +2,7 @@
 `Placeholder repo for Discorsa` 
 ___
 Now this isn't just one app, it's a collection. There's a bot, there's a webserver, there's a mod, there will probably be a better website in the future...\
-Because of this, I've split them into multiple repositories to make it easier to collaborate and deploy those apps. None of the actual repositories will be made public, instead this "frontpage" repo will be used for [new releases](https://github.com/Hypurrnating/Discorsa/tags), [tracking issues](https://github.com/Hypurrnating/Discorsa/issues), and [hosting the page](https://hypurrnating.github.io/Discorsa/) obviously, in addition to making some of the apps readable to the public, such as the mod clients.\
+Because of this, I've split them into multiple repositories to make it easier to collaborate and deploy those apps. None of the actual repositories will be made public, instead this "frontpage" repo will be used for [new releases](https://github.com/Hypurrnating/Discorsa/tags), [tracking issues](https://github.com/Hypurrnating/Discorsa/issues), and [hosting the page](https://hypurrnating.github.io/Discorsa/) obviously, in addition to making some of the apps readable to the public, such as the mod clients.
 
 If you have any questions, or need help, there's a [discord server](https://discord.gg/DPTCrxawBx) just for that.
 

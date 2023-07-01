@@ -4,3 +4,5 @@ plugins:
 title: Discorsa Homepage
 description: Under construction?
 show_downloads: False
+site-links:
+  discord-server: https://discord.gg/DPTCrxawBx

@@ -24,5 +24,5 @@ buttons:
     tar_hide: false
     github_hide: true
 show_downloads: true
-favicon: none
-logo_url: ./logo.png # Either absolute or relative url
+favicon: ./Media/icon.png
+logo_url: ./Media/icon.png # Either absolute or relative url

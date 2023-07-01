@@ -4,7 +4,7 @@ remote_theme: sirius93/cayman-theme-custom
 plugins:
 - jekyll-remote-theme
 title: Discorsa
-description: Why are you here...
+description: Assetto Corsa plugin for Discord
 darkmode: false
 hide_first_title: false # Useful if README.md is used on both github and pages
 syntax_theme: ./syntax.css # Leave empty for default, otherwise link to a pygments stylesheet

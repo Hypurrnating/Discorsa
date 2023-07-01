@@ -24,5 +24,5 @@ buttons:
     tar_hide: false
     github_hide: true
 show_downloads: true
-favicon: https://github.com/Hypurrnating/Discorsa/blob/main/Media/icon.png
-logo_url: https://github.com/Hypurrnating/Discorsa/blob/main/Media/icon.png # Either absolute or relative url
+favicon: ./Media/icon.ico
+logo_url: ./Media/icon.ico # Either absolute or relative url

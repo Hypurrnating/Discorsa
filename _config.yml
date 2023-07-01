@@ -11,10 +11,10 @@ syntax_theme: # Leave empty for default, otherwise link to a pygments stylesheet
 color:
     gradient_left: "#a88ee3"
     gradient_right: "#5f2ba5"
-    header: "#fff"
+    header: "#ead3f1"
+    section_title: "#155799" # this default to gradient_color
     android_theme: "#000" # this default to gradient_color
     link: "#1e6bb8" # this default to gradient_color
-    section_title: "#155799" # this default to gradient_color
 buttons:
     zip_url: https://discord.gg/DPTCrxawBx
     zip_title: Join Support Server

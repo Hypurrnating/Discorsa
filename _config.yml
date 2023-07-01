@@ -23,5 +23,6 @@ buttons:
     tar_title: Register for Discorsa
     tar_hide: true
     github_hide: false
+show_downloads: true
 favicon: none
 logo_url: ./logo.png # Either absolute or relative url

@@ -6,13 +6,13 @@ plugins:
 title: Discorsa
 description: Assetto Corsa plugin for Discord
 darkmode: true
-hide_first_title: false # Useful if README.md is used on both github and pages
+hide_first_title: true # Useful if README.md is used on both github and pages
 syntax_theme: # Leave empty for default, otherwise link to a pygments stylesheet
 color:
     gradient_left: "#70128f"
     gradient_right: "#291121"
     header: "#ead3f1"
-    section_title: "#155799" # this default to gradient_color
+    section_title: "#ead3f1" # this default to gradient_color
     android_theme: "#000" # this default to gradient_color
     link: "#1e6bb8" # this default to gradient_color
 buttons:

@@ -1,7 +1,7 @@
 # Failed
 
 If you see this, it's because the server couldn't register you for discorsa.\
-Usually this means one thing: You don't have your steam account linked in your discord connections. You can read about that on the [official Discord blogpost](https://support.discord.com/hc/en-us/articles/8063233404823-Connections-Linked-Roles-Community-Members#h_01GK285ENTCX37J9PYCM1ADXCH), or just follow the instructions below.
+Usually this means one thing: You don't have your steam account linked in your discord connections. You can read about that on the <a href="https://support.discord.com/hc/en-us/articles/8063233404823-Connections-Linked-Roles-Community-Members#h_01GK285ENTCX37J9PYCM1ADXCH" target="_blank">official Discord blogpost</a> , or just follow the instructions below.
 
 FYI, this is the safest way to verify you.
 

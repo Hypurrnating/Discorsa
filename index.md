@@ -1,5 +1,6 @@
 Discorsa allows you to actively share your lap times on discord as well storing and accessing them neatly\
 To get started just press on the `Register` button above and follow the instructions! Make sure to join our discord server if you haven't added the bot to any of your own servers
+
 Check out the github repo if you are interested
 
 ![Example](./Media/example_embed.png)

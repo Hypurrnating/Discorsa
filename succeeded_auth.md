@@ -4,7 +4,7 @@ Wooo! The server was able to verify you and stored your steam information!
 
 FYI, registering another time will refresh your information in the database, and cause you to redo the next steps.
 
-### What next? 
+### What's next? 
 
 To actually enable the server to recognize what calls are sent by you, a specific file must be present in the mod location. the next steps are described in detail in `#resources` on our discord server, so if that's how you came here, go back there.
 

@@ -1,6 +1,6 @@
 # Success
 
-Congrats, the server was able to verify you and stored your steam information!
+Wooo! The server was able to verify you and stored your steam information!
 
 FYI, registering another time will refresh your information in the database, and cause you to redo the next steps.
 

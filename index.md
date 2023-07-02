@@ -5,5 +5,7 @@ In the future, Discorsa will allow you to create duels between you and your frie
 
 ![Example](./Media/example_embed.png)
 
-`As a disclaimer, Discorsa is NOT a way to validate your laps. You are still advised to save replays and real screenshots.`\
-`If you would like to contribute to the project, you can dm me: @inotmad`
+```
+As a disclaimer, Discorsa is NOT a way to validate your laps. You are still advised to save replays and real screenshots.
+If you would like to contribute to the project, you can dm me: @inotmad
+```

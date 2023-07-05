@@ -17,7 +17,7 @@ I plan on expanding it to include more detailed data about each lap. This is a t
 - [ ] Fix Lap Invalidation https://github.com/Hypurrnating/Discorsa/issues/1
 - [ ] Include feedback about connection with server from transmitter to user in game
   - [ ] on_start event to check for a working connection: `(On hold: Requires rewriting the the transmitter)` 
-  - [x] Retry sending data in case it fails: `(Will only retry once and only on exception, not a non-200 status code)`
+  - [x] Retry sending data in case it fails
   - [x] Save data it couldn't send and retry on next startup
 - [ ] Move from using webhooks to using the bot.
   - [ ] Configure private networking between bot and server

@@ -20,7 +20,7 @@ I plan on expanding it to include more detailed data about each lap. This is a t
   - [x] Retry sending data in case it fails
   - [x] Save data it couldn't send and retry on next startup
 - [ ] Move from using webhooks to using the bot.
-  - [ ] Configure private networking between bot and server
+  - [x] Configure private networking between bot and server
   - [ ] Add command for managing the channels to send messages to
     - [ ] Also include a `try except` that removes a channel from settings it can not access (preferrably done when the message actually has to be sent)
     - [ ] ofc enable sending to multiple channels

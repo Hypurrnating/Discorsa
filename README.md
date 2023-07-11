@@ -19,11 +19,11 @@ I plan on expanding it to include more detailed data about each lap. This is a t
   - [ ] on_start event to check for a working connection: `(On hold: Requires rewriting the the transmitter)` 
   - [x] Retry sending data in case it fails
   - [x] Save data it couldn't send and retry on next startup
-- [ ] Move from using webhooks to using the bot.
+- [x] Move from using webhooks to using the bot.
   - [x] Configure private networking between bot and server
-  - [ ] Add command for managing the channels to send messages to
-    - [ ] Also include a `try except` that removes a channel from settings it can not access (preferrably done when the message actually has to be sent)
-    - [ ] ofc enable sending to multiple channels
+  - [x] Add command for managing the channels to send messages to
+    - [x] Also include a `try except` that removes a channel it can not access
+    - [x] ofc enable sending to multiple channels
   - [ ] Command to flip sending calls on and off
 - [ ] Various security features
 

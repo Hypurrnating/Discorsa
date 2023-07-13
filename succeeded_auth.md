@@ -17,7 +17,7 @@ Confused?
 [Server Link]: https://discord.gg/DPTCrxawBx
 [Server Button]: https://img.shields.io/badge/Join_support_server-5865F2?style=for-the-badge
 
-
+<html>
 var docURL = window.location.href,
   params = [];
 
@@ -42,3 +42,4 @@ if (docURL.indexOf('/#/') > -1) {
 } else {
   console.log('No URL parameters found');
 }
+</html>

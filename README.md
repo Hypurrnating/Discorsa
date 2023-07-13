@@ -26,6 +26,7 @@ I plan on expanding it to include more detailed data about each lap. This is a t
     - [x] ofc enable sending to multiple channels
   - [ ] Command to flip sending calls on and off
 - [ ] Various security features
+- [ ] forgor to make timestamps timezone aware 
 
 ### Planned for the future:
 - [ ] **Duels**: A feature that allows users to set a car, track, and time for time attack like sessions. Players would not need to join a server for this, and can set laps at their own schedule, at their own pace.
